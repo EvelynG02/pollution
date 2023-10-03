@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Young+Serif');
 
 :root {
 	--black: #373737;
@@ -21,7 +21,7 @@ body {
 	margin: 0;
 	padding: 0;
 	transition: all 0.5s ease 0s;
-	font-family: 'Varela Round', cursive;
+	font-family: 'Young Serif', sans-serif;
 }
 
 body:after {
